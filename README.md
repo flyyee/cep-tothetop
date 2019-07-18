@@ -7,7 +7,7 @@ windows 10
 1920x1080 monitor
 8gb ram
 
-python version 3.6.1+
+python version 3.6.1+  
 __python libraries required:__
 pygame
 numpy
@@ -15,7 +15,7 @@ random
 datetime
 sys
 
-do not attempt to run the game without any of the following
+do not attempt to run the game without any of the following  
 __game comes packaged as:__
 main.py
 settings.py
